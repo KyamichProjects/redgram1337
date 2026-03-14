@@ -1,0 +1,5 @@
+{
+  "name": "Remix: RedGram",
+  "description": "A Red-themed Telegram clone with local WebSocket support.",
+  "requestFramePermissions": ["microphone"]
+}
